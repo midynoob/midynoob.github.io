@@ -31,19 +31,19 @@ const Services = () => {
                     <ServicesP>Track Covid-19 cases globaly, data is pulled from Third-Party API</ServicesP>
 
                 </ServicesCard>
-                <ServicesCard href='//midyamezonclone.web.app/' target='_blank' >
+                <ServicesCard href='//midywhatsappclone.web.app/' target='_blank' >
                     <ServicesIcon src={Icon2} />
                     <ServicesH2>WhatsApp Clone</ServicesH2>
                     <ServicesP>Social media platform to create groups and send messages</ServicesP>
 
                 </ServicesCard>
-                <ServicesCard href='//midyamezonclone.web.app/' target='_blank' >
+                <ServicesCard href='//midynoob.github.io/todoApp/' target='_blank' >
                     <ServicesIcon src={Icon5} />
                     <ServicesH2>Todo App</ServicesH2>
                     <ServicesP>Make your own To-Do list for today and track you progress</ServicesP>
 
                 </ServicesCard>
-                <ServicesCard href='//midyamezonclone.web.app/' target='_blank' >
+                <ServicesCard href='//midynoob.github.io/htmlProjects/portfolio/' target='_blank' >
                     <ServicesIcon src={Icon6} />
                     <ServicesH2>HTML Portfolio</ServicesH2>
                     <ServicesP>Portfolio using only HTML/CSS (has old HTML/CSS only Projects )</ServicesP>
