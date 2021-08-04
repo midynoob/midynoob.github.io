@@ -22,7 +22,7 @@ export const homeObjTwo = {
     lightTextDesc: false,
     topLine: 'HTML | CSS | JS | ReactJs',
     headline: 'Toufiq Shaikh',
-    description: 'Pursuing Bachelor Degree in Computer Engineering From Internation Institue of Information Technology, Pune.  ',
+    description: 'Pursuing Bachelor Degree in Computer Engineering From International Institue of Information Technology, Pune.  ',
     buttonLabel: 'Download CV',
     imgStart: true,
     img: require('../../images/about.svg').default,
