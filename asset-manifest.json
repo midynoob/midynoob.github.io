@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.49ca963e.chunk.css",
-    "main.js": "/static/js/main.4126c6b4.chunk.js",
-    "main.js.map": "/static/js/main.4126c6b4.chunk.js.map",
+    "main.css": "/static/css/main.7fa5fb8e.chunk.css",
+    "main.js": "/static/js/main.af9b3be9.chunk.js",
+    "main.js.map": "/static/js/main.af9b3be9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.080790f5.js",
     "runtime-main.js.map": "/static/js/runtime-main.080790f5.js.map",
     "static/js/2.b2ebfd1d.chunk.js": "/static/js/2.b2ebfd1d.chunk.js",
     "static/js/2.b2ebfd1d.chunk.js.map": "/static/js/2.b2ebfd1d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.49ca963e.chunk.css.map": "/static/css/main.49ca963e.chunk.css.map",
+    "static/css/main.7fa5fb8e.chunk.css.map": "/static/css/main.7fa5fb8e.chunk.css.map",
     "static/js/2.b2ebfd1d.chunk.js.LICENSE.txt": "/static/js/2.b2ebfd1d.chunk.js.LICENSE.txt",
-    "static/media/Toufiq_Shaikh_CV.565194d0.pdf": "/static/media/Toufiq_Shaikh_CV.565194d0.pdf",
+    "static/media/Toufiq_Shaikh_CV.7deca72e.pdf": "/static/media/Toufiq_Shaikh_CV.7deca72e.pdf",
     "static/media/about.svg": "/static/media/about.b568eb25.svg",
     "static/media/amazon.612ec4ce.png": "/static/media/amazon.612ec4ce.png",
     "static/media/covid.b5ca01e7.png": "/static/media/covid.b5ca01e7.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.080790f5.js",
     "static/js/2.b2ebfd1d.chunk.js",
-    "static/css/main.49ca963e.chunk.css",
-    "static/js/main.4126c6b4.chunk.js"
+    "static/css/main.7fa5fb8e.chunk.css",
+    "static/js/main.af9b3be9.chunk.js"
   ]
 }
